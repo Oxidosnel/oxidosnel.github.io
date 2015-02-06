@@ -18,19 +18,19 @@ categories: 文档
 	#import <Foundation/Foundation.h>
 
 **2．Valid Architectures设置**   
-armv7 需要去掉  
-arm64 可以  
-armv7s可以  
+armv7:  需要去掉  
+arm64:  可以  
+armv7s: 可以  
 
 **3．Apple LLVM 6.0 - Language - C++ 设置**  
-C++ Language Dialect   C++ 98  或者  GNU++ 98  
-C++ Language Library  不用管它
+C++ Language Dialect:   C++ 98  或者  GNU++ 98  
+C++ Language Library:   不用管它
 
   
-**3．添加系统库 libc++.dylib**  
+**4．添加系统库 libc++.dylib**  
   
 
-**cv::Mat和UIImage格式之间相互转换**
+**其他相关:cv::Mat和UIImage格式之间相互转换**
 
 UIImage+OpenCV.h 文件：
 
