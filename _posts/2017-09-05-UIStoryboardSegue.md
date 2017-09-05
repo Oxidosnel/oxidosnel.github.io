@@ -13,12 +13,10 @@ categories: UI
 从登陆界面连线到相应的ViewController，然后选择push。 
 ￼ ![][image-2]
 然后在响应的事件中添加如下代码：
-- (IBAction)clicktoTwo:(id)sender {  
-	 [self performSegueWithIdentifier:@"oneToTwo" sender:nil]();  
+
+	- (IBAction)clicktoTwo:(id)sender {
+	 [self performSegueWithIdentifier:@"oneToTwo" sender:nil];
 	}
-
-
-
 
 
 [image-1]:	/images/UIStoryboardSegue%E8%87%AA%E5%8A%A8segue.jpeg
