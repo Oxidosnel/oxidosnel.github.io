@@ -21,4 +21,4 @@ categories: UI
 
 
 
-[image-1]:	/images/sprite_download.png
+[image-1]:	/images/UIStoryboardSegue%E8%87%AA%E5%8A%A8segue.jpeg
