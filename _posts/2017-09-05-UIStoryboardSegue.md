@@ -21,4 +21,4 @@ categories: UI
 
 
 
-[image-1]:	/images/bg_hr.png
+[image-1]:	/images/sprite_download.png
