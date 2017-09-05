@@ -17,4 +17,4 @@ categories: UI
 	 [self performSegueWithIdentifier:@"oneToTwo" sender:nil]();    
 }  
 
-[1]:	UIStoryboardSegue%E6%89%8B%E5%8A%A8segue.jpeg
+[1]:	/oxidosnel.github.io/images/UIStoryboardSegue%E6%89%8B%E5%8A%A8segue.jpeg
