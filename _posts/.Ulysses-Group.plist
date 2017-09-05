@@ -6,6 +6,44 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>2004-10-04-debugtrack.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>526276574.35090399</real>
+				<key>lastModification</key>
+				<real>526287482.50818002</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>45</integer>
+				</dict>
+			</dict>
+			<key>2004-10-09-wia-learning-notes.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>526276574.35116899</real>
+				<key>lastModification</key>
+				<real>526287482.50818098</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>45</integer>
+				</dict>
+			</dict>
+			<key>2015-02-05-MD-practice.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526287482.50818002</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>45</integer>
+				</dict>
+			</dict>
 			<key>2015-02-05-markdown 语法实践.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -90,6 +128,16 @@
 					<integer>31</integer>
 				</dict>
 			</dict>
+			<key>蓝牙.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526287487.08441699</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>46</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -110,6 +158,9 @@
 			<string>半自动化编程.md</string>
 		</array>
 		<array>
+			<string>蓝牙.md</string>
+		</array>
+		<array>
 			<string>2015-02-14-UITabbarController.md</string>
 		</array>
 		<array>
@@ -117,6 +168,15 @@
 		</array>
 		<array>
 			<string>2015-02-06-opencv-xcode6.1.1.md</string>
+		</array>
+		<array>
+			<string>2004-10-04-debugtrack.md</string>
+		</array>
+		<array>
+			<string>2015-02-05-MD-practice.md</string>
+		</array>
+		<array>
+			<string>2004-10-09-wia-learning-notes.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -126,7 +186,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-			<integer>43</integer>
+			<integer>47</integer>
 		</dict>
 	</dict>
 </dict>
