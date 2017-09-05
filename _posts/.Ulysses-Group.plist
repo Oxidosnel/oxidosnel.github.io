@@ -6,48 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2004-10-04-debugtrack.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523512158.14524901</real>
-				<key>lastModification</key>
-				<real>523512450.36044598</real>
-				<key>version</key>
-				<dict>
-					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
-			<key>2004-10-09-wia-learning-notes.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523512134.02989697</real>
-				<key>lastModification</key>
-				<real>523512450.36045003</real>
-				<key>version</key>
-				<dict>
-					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
-			<key>2015-02-05-MD-practice.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523512126.38645703</real>
-				<key>lastModification</key>
-				<real>523512450.36044902</real>
-				<key>version</key>
-				<dict>
-					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
 			<key>2015-02-06-opencv-xcode6.1.1.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -88,14 +46,34 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
-			<key>无标题.md</key>
+			<key>2017-08-04-疑问记录与解答.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>523512450.36044103</real>
+				<real>523520951.32095897</real>
 				<key>version</key>
 				<dict>
 					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>5</integer>
+					<integer>13</integer>
+				</dict>
+			</dict>
+			<key>UIStoryboardSegue.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526269386.60207498</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>29</integer>
+				</dict>
+			</dict>
+			<key>半自动化编程.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524470576.90812999</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>17</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -103,13 +81,16 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2004-10-04-debugtrack.md</string>
+			<string>UIStoryboardSegue.md</string>
 		</array>
 		<array>
 			<string>2015-04-21-Dynamic Prototypes&amp;static cells.md</string>
 		</array>
 		<array>
-			<string>无标题.md</string>
+			<string>2017-08-04-疑问记录与解答.md</string>
+		</array>
+		<array>
+			<string>半自动化编程.md</string>
 		</array>
 		<array>
 			<string>2015-02-14-UITabbarController.md</string>
@@ -120,12 +101,6 @@
 		<array>
 			<string>2015-02-06-opencv-xcode6.1.1.md</string>
 		</array>
-		<array>
-			<string>2015-02-05-MD-practice.md</string>
-		</array>
-		<array>
-			<string>2004-10-09-wia-learning-notes.md</string>
-		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -134,7 +109,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-			<integer>5</integer>
+			<integer>30</integer>
 		</dict>
 	</dict>
 </dict>
