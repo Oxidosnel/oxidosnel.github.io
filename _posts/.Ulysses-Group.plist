@@ -6,34 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2004-10-04-debugtrack.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>526276574.35090399</real>
-				<key>lastModification</key>
-				<real>526287482.50818002</real>
-				<key>version</key>
-				<dict>
-					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>45</integer>
-				</dict>
-			</dict>
-			<key>2004-10-09-wia-learning-notes.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>526276574.35116899</real>
-				<key>lastModification</key>
-				<real>526287482.50818098</real>
-				<key>version</key>
-				<dict>
-					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>45</integer>
-				</dict>
-			</dict>
 			<key>2015-02-05-MD-practice.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -42,20 +14,6 @@
 				<dict>
 					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
 					<integer>45</integer>
-				</dict>
-			</dict>
-			<key>2015-02-05-markdown 语法实践.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>526276289.04026598</real>
-				<key>lastModification</key>
-				<real>526276289.04026598</real>
-				<key>version</key>
-				<dict>
-					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-					<integer>41</integer>
 				</dict>
 			</dict>
 			<key>2015-02-06-opencv-xcode6.1.1.md</key>
@@ -118,6 +76,20 @@
 					<integer>52</integer>
 				</dict>
 			</dict>
+			<key>2017-10-25-iOS开发规范终极篇.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>530588305.01052099</real>
+				<key>lastModification</key>
+				<real>530588305.01052099</real>
+				<key>version</key>
+				<dict>
+					<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
+					<integer>65</integer>
+				</dict>
+			</dict>
 			<key>半自动化编程.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -159,9 +131,6 @@
 			<string>2017-09-05-UIStoryboardSegue.md</string>
 		</array>
 		<array>
-			<string>2015-02-05-markdown 语法实践.md</string>
-		</array>
-		<array>
 			<string>2015-04-21-Dynamic Prototypes&amp;static cells.md</string>
 		</array>
 		<array>
@@ -174,6 +143,9 @@
 			<string>蓝牙.md</string>
 		</array>
 		<array>
+			<string>2017-10-25-iOS开发规范终极篇.md</string>
+		</array>
+		<array>
 			<string>2015-02-14-UITabbarController.md</string>
 		</array>
 		<array>
@@ -183,13 +155,7 @@
 			<string>2015-02-06-opencv-xcode6.1.1.md</string>
 		</array>
 		<array>
-			<string>2004-10-04-debugtrack.md</string>
-		</array>
-		<array>
 			<string>2015-02-05-MD-practice.md</string>
-		</array>
-		<array>
-			<string>2004-10-09-wia-learning-notes.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -199,7 +165,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>25368b0a7bb4a4473fb23736480127df24e49b7508c0d119a1f9c32baf5b332d</key>
-			<integer>53</integer>
+			<integer>65</integer>
 		</dict>
 	</dict>
 </dict>
